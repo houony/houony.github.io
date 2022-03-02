@@ -21,13 +21,9 @@ print_hi('Tom')
 {% endhighlight %}
 
 그리고 링크는 이런식으로 달 것..?
-[인스타그램][myinstagram] & [네이버블로그][naverbolg]
-
-[myinstagram] : https://www.instagram.com/houony/
-[naverbolg] : https://blog.naver.com/hoon7227
-
-
-Check out the [인스타그램][my-instagram] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [네이버 블로그][naver-blog]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+[인스타그램][my-instagram]
+[네이버 블로그][naver-blog]
+[Jekyll Talk][jekyll-talk]
 
 [my-instagram]: https://www.instagram.com/houony/
 [naver-blog]:   https://blog.naver.com/hoon7227
